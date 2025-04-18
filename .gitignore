@@ -1,0 +1,8 @@
+# PyCharm 配置
+.idea/
+*.iml
+
+# 杂文件
+*.png
+*.jpg
+*.log
