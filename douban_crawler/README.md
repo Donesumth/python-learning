@@ -18,4 +18,4 @@
 2. **克隆仓库**：
    ```bash
    git clone https://github.com/Donesumth/python-learning.git
-   cd <python-learning>
+   cd python-learning
